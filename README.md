@@ -1,9 +1,9 @@
 # 💫 About Me:
-Full Stack Web developer with 2 years of experience in building user-friendly
-websites. Proficient in HTML, CSS, JavaScript, PHP and Python. Strong
+Full Stack Web developer with 3 years of experience in building user-friendly
+websites. Proficient in JavaScript, PHP and Python. Strong
 **problem-solving** skills and a good eye for detail. Able to work independently
 and as part of a team. <br>
-🌱 I’m currently learning **Next.JS, ASP.NET**<br>
+🌱 Currently, I am immersing myself in the exciting domains of **AI** and **Web3** <br>
 ⚡ Fun fact I'm a student
 
 
