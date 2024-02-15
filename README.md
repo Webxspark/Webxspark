@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Web developer with 3 years of experience in building dynamic and user-friendly
+Full Stack Web developer with 4 years of experience in building dynamic and user-friendly
 websites. Proficient in JavaScript, PHP and Python. Strong
 **problem-solving** skills and a good eye for detail. Able to work independently
 and as part of a team. <br>
